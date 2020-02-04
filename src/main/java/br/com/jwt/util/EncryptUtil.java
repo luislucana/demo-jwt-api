@@ -12,6 +12,7 @@ import java.util.Formatter;
  * https://docs.oracle.com/javase/8/docs/technotes/guides/security/StandardNames.html#Mac
  * https://www.baeldung.com/java-base64-encode-and-decode
  * https://www.javainuse.com/spring/jwt
+ * https://dzone.com/articles/spring-boot-security-json-web-tokenjwt-hello-world
  */
 public abstract class EncryptUtil {
 
